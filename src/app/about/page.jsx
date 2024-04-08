@@ -1,7 +1,9 @@
 import React from "react";
+import { Suspense } from 'react';
 
 export default function About() {
   return (
+    <Suspense fallback={<div>Loading...</div>}>
     <div className="flex flex-col items-center ">
       <h1 className="w-screen text-center my-4 text-3xl font-bold text-yellow-500 md:text-4xl ">
         About{" "}
@@ -34,6 +36,6 @@ export default function About() {
       </p>
       </div>
       
-    </div>
+    </div></Suspense>
   );
 }
