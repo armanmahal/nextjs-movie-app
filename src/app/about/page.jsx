@@ -12,13 +12,13 @@ export default function About() {
         vast landscape of cinema with precision and insight. With an extensive
         collection of movie reviews, trailers, and exclusive behind-the-scenes
         content, MovieMap is your trusted companion on your cinematic adventure.
-        Whether you're seeking the latest blockbuster hit or searching for
+        Whether you&apos;re seeking the latest blockbuster hit or searching for
         hidden gems from the past, our curated platform offers something for
         every movie lover.
       </p>
       <p>
         At MovieMap, we understand that the magic of film extends far beyond the
-        screen. That's why we delve deep into the stories behind the movies,
+        screen. That&apos;s why we delve deep into the stories behind the movies,
         bringing you fascinating trivia, interviews with cast and crew, and
         analysis of filmmaking techniques. Our dedicated team of movie
         enthusiasts is committed to providing you with rich, immersive content
@@ -29,7 +29,7 @@ export default function About() {
         exploration, and celebration of all things cinematic. With our
         user-friendly interface and personalized recommendations, we make it
         easy for you to find your next favorite movie and connect with fellow
-        film enthusiasts. Whether you're a casual movie buff or a seasoned
+        film enthusiasts. Whether you&apos;re a casual movie buff or a seasoned
         cinephile, MovieMap is your ultimate destination for all things movies.
       </p>
       </div>
